@@ -8,7 +8,7 @@
 ### Ini adalah hasil konversi dari latex menjadi markdown oleh claude.
 ## Abstract
 
-> Sebab program ROS2 sederhana yang membaca posisi turtle, kemudian mengirim message melalui topic berupa kecepatan linear dan angular turtle, dengan memanfaatkan dua kombinasi ini maka turtle nantinya akan dapat bergerak dari bawah ke atas sehingga membentuk sebuah gambar pixel-art berukuran tertentu, dengan sumber gambar berupa sebuah vector berukuran 2d yang menyimpan warna RGB untuk setiap pixel.
+> Sebuah program ROS2 sederhana yang membaca posisi turtle, kemudian mengirim message melalui topic berupa kecepatan linear dan angular turtle, dengan memanfaatkan dua kombinasi ini maka turtle nantinya akan dapat bergerak dari bawah ke atas sehingga membentuk sebuah gambar pixel-art berukuran tertentu, dengan sumber gambar berupa sebuah vector berukuran 2d yang menyimpan warna RGB untuk setiap pixel.
 
 ## 1 Pendahuluan
 
