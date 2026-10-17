@@ -16,6 +16,8 @@
 
 Saya rasa itu cukup untuk mewakili keselurahan isi dokumentasi ini. Jadi ketimbang saya menuntun sebuah turtle untuk menggambar lebih baik Saya buat program yang menampilkan sbeuha gmabar yang sudha jadi :) saya rasa tidak ada larangan untuk itu :) Karena jika saya paksa untuk mencoba menggmabar dengan turtle sama saja seperti seorang yang hilang arah menuntun orang lain yang tersesat.
 
+Sebab disibukkan oleh beberapa hal Kode yang dibuat tergolong sangat sederhana dan low effort bagi saya :( sebab turtlenya hanya menggambar sesuai dengan gambar yang telah dibuat sebelumnya bukan berasal dari kombinasi persamaan matematika yang meghasilkan bentuk yang indah.
+
 ---
 
 ## 2 Penjelasan Kode
