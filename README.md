@@ -260,6 +260,9 @@ setelah mencoba BANYAK konfigurasi berbeda berikut konfigurasi terbaik yang say 
 
 ## 6 Demonstrasi Program
 url : https://drive.google.com/drive/folders/1vOK_HeDCWatERJsmt5OAmtk06Zf7kUn1?usp=sharing
+
+Penjelasan kode dengan suara tidak bisa dilakukan sebab satu dua hal. Yang utama saya tinggal di asrama mahasiswa satu kamar dua orang :) dan sangat tidak kondusif.
 ## Whats Next?
 - Membuat agar gambar yang ditampilkan memiliki skala 1:1 dengan gambar aslinya tidak melebar :)
 - Membuat program untuk langsung menggambar pixel art kemudian secara otomatis disimpan sebagai vector 2d berisi RGB.
+- Memperbaiki dokumentasi yang berantakkan.
